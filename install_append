@@ -1,0 +1,2 @@
+mkdir -p %{buildroot}/usr/lib64/libv4l/plugins
+install libv4l_geocam.so %{buildroot}/usr/lib64/libv4l/plugins/
